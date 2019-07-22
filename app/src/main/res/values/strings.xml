@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">EDetailingClone</string>
+    <string name="demotext">UK prime minister will chair the government\u0027s emergency committee Cobra on Monday after a British-flagged tanker was seized by Iran in the Gulf.  Theresa May is expected to receive updates from ministers and officials and discuss maintaining the security of shipping in the area.  It comes amid reports ministers are considering freezing Iranian assets.  Foreign Secretary Jeremy Hunt is expected to update MPs later on further measures the government will take.  On Sunday, the Foreign Office confirmed Mr Hunt spoke with his French and German counterparts, who have both condemned Iran\u0027s actions.</string>
+
+<string-array name="demoDec">
+    <item>Mr Hunt thanked French foreign minister Jean-Yves Le Drian and the German foreign minister Heiko Maas for their countries\u0027 support.
+
+Both ministers agreed with the foreign secretary that safe passage for vessels through the Strait of Hormuz is a top priority for European nations, while avoiding any possible escalation in the region.
+
+Ministers have denied reports the government had taken its "eye off the ball" over the situation in the Gulf due to domestic politics.
+
+Chancellor Philip Hammond insisted the government had been "very much engaged with both the Americans and our European partners" in the response to Iran\u0027s actions over the last few months. More ..
+        https://www.banglanews24.com/english/international/article/78393/UK-PM-to-chair-Cobra-meeting-on-Iran-crisis</item>
+    <item>Dozens of masked men armed with batons stormed a train station in the Hong Kong district of Yuen Long on Sunday.
+
+Footage posted on social media showed the men, all in white T-shirts, violently attacking people on platforms and inside train carriages.
+
+Forty-five people were injured, with one person in a critical condition.
+    more… https://www.banglanews24.com/international/article/78389/Armed-mob-storms-Hong-Kong-train-station</item>
+    <item>The Pentagon has said US troops are being deployed to Saudi Arabia to defend American interests from "emergent credible threats".
+
+The move comes amid heightened tensions with Iran over the safety of shipping lanes in the Gulf.
+
+Saudi Arabia confirmed that King Salman had approved the move "to strengthen regional security and stability".
+
+The kingdom has not hosted US forces since 2003 when they withdrew at the end of the war with Iraq.
+    more … https://www.banglanews24.com/international/article/78355/US-to-send-troops-to-Saudi-Arabia-amid-tensions-with-Iran</item>
+    <item> A suspected CS gas attack has occurred on a London Underground train.
+
+It happened at 09:13 BST on board a Victoria line Tube train at Oxford Circus in central London.
+
+British Transport Police said a number of people were treated at the scene by paramedics for coughing and lack of breath - but there were "no further concerns for their health".
+
+The force has appealed for witnesses and released CCTV images of two people they want to speak to.
+
+Passenger Michael Roberts was with his girlfriend on their way to Oxford when he said he saw two people "looking into the next carriage had seen some sort of a commotion".
+    more … https://www.banglanews24.com/international/article/78358/Tear-gas-attack-on-London-underground-train</item>
+    <item>The Pentagon has said US troops are being deployed to Saudi Arabia to defend American interests from "emergent credible threats".
+
+The move comes amid heightened tensions with Iran over the safety of shipping lanes in the Gulf.
+
+Saudi Arabia confirmed that King Salman had approved the move "to strengthen regional security and stability".
+
+The kingdom has not hosted US forces since 2003 when they withdrew at the end of the war with Iraq.
+    more… https://www.banglanews24.com/international/article/78355/US-to-send-troops-to-Saudi-Arabia-amid-tensions-with-Iran</item>
+</string-array>
+<string-array name="image">
+    <item>https://www.liveabout.com/thmb/AVjdryilm98JiIrPgrSZfp4rtzw=/1650x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1856809-5c2e4ee2c9e77c000192c616.jpg</item>
+    <item>https://www.liveabout.com/thmb/D4TmnEKTDOWCmPNcy2UBl4juYM0=/1596x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/premiere-of-warner-bros-pictures-central-intelligence-arrivals-539401608-57bb0ab23df78c8763c4fc1a.jpg</item>
+    <item>https://www.liveabout.com/thmb/YCK9VF7Aa2zycI8dn059bVtXutQ=/1457x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wendy-s-brings-bbq4merica-with-actors-alfonso-ribeiro-and-ralph-macchio-and-pro-wrestling-hall-of-famer-steve-austin-456333166-57bb0b2f3df78c8763c51181.jpg</item>
+    <item>https://www.liveabout.com/thmb/mPiADOb7kJGxcOrxSPUy7ErRG4c=/1650x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-90070808-5c2e51f1c9e77c00011b71a2.jpg</item>
+    <item>https://www.liveabout.com/thmb/IUQKPBvisRrtoFNIUcV48PATGPc=/2280x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-515114368-5c2e5363c9e77c0001cf32ed.jpg</item>
+</string-array>
+</resources>
