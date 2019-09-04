@@ -19,8 +19,8 @@ import me.mortuza.edetailingclone.views.TextStatusViews;
 import me.mortuza.edetailingclone.views.TextStatusWithImageViews;
 
 public class TestAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
-    Context mContext;
-    List<ModelStatus> modelStatuses = new ArrayList<>();
+    private Context mContext;
+    private List<ModelStatus> modelStatuses = new ArrayList<>();
 
     public TestAdapter(Context mContext) {
         this.mContext = mContext;

@@ -26,11 +26,6 @@ public class MainActivity extends AppCompatActivity {
         String[] x = getResources().getStringArray(R.array.demoDec);
         String[] image = getResources().getStringArray(R.array.image);
 
-//        this.pName = pName;
-//        this.ago = ago;
-//        this.pImageURL = pImageURL;
-//        this.status = status;
-
         for (int i = 0; i < 5; i++) {
             modelStatuses.add(new ModelStatus("s" + i, "2.20 hour", image[i], x[i]));
         }
@@ -42,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
         DividerItemDecoration dividerItemDecoration = new DividerItemDecoration(view.getContext(),
                 linearLayoutManager.getOrientation());
         view.addItemDecoration(dividerItemDecoration);
-
+        JsonTest jsonTest = new JsonTest();
+        jsonTest.createJson();
     }
 }
